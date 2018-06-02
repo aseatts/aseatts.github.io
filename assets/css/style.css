@@ -1,0 +1,100 @@
+.html{
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;}
+.content { width: 960px; }
+
+hr.style-one {
+    clear: both;
+     border: 0;
+     height: 1spx;
+     background: gray;
+     background-image: linear-gradient(to right, #999, #999, #999);
+      margin: px;
+      position: bottom
+     
+ }
+.sitetitle{clear: left;
+    float: left;
+    padding: 20px;
+    color: white;
+    background-color: #4aaaa5;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.panel{
+   font-size: 30px;
+color: #4aaaa5;
+   padding-bottom: 15px;    font-weight: bold;
+   }
+.panel-text
+   {font-size: 16px;
+    font-weight: bold;
+    line-height: 200%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: darkgray;}
+.heading
+{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 30px;
+
+    
+}
+
+a:hover, a:visited, a:link, a:active
+{   color: darkgray;
+    text-decoration: none;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 15px;
+ 
+}
+.headLinks
+ {  float: right;
+    padding: 20px;
+ 
+ }
+.image
+{
+    float: left;
+    padding-right: 30px;
+ 
+}
+
+.panel-body
+{
+
+    /* Fixed Position box*/
+    padding: 40px;
+    font-size: normal;
+    background-image:url(../images/leaves-pattern.png);
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+
+  }
+
+  .form1
+
+{ 
+    color: slategray;
+    text-decoration: none;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 15px;
+  
+}
+
+  .contactfrom {    color: slategray;
+    text-decoration: none;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 15px;}
+
+    .textarea { 
+        
+        color: slategray;
+        text-decoration: none;
+        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+        font-size: 15px  ;
+        height:100px;
+        width:500px;
+}
+    
